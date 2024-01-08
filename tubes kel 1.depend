@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1704556429 source:d:\code blocks file\tubes std\tubes kel 1\main.cpp
+	<iostream>
+	"pasien.h"
+
+1704300487 d:\code blocks file\tubes std\tubes kel 1\pasien.h
+	<iostream>
+	<string>
+
+1704644553 source:d:\code blocks file\tubes std\tubes kel 1\pasien.cpp
+	<iostream>
+	"pasien.h"
+
